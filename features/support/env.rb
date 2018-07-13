@@ -6,6 +6,7 @@ def caps
       platformName: "Android",
       app:(File.join(File.dirname(__FILE__), "ultimate_converter.apk")),
       appPackage: "com.physphil.android.unitconverterultimate",
+      appWaitActivity: "com.physphil.android.unitconverterultimate.MainActivity",
       appActivity: "com.physphil.android.unitconverterultimate.MainActivity",
       newCommandTimeout: "3600"
   }}
