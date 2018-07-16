@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad07066e-effd-4898-9eef-73e1464b79c3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/converter_automation.iml" afterPath="$PROJECT_DIR$/.idea/converter_automation.iml" />
-      <change beforePath="$PROJECT_DIR$/features/area_screen.feature" afterPath="$PROJECT_DIR$/features/area_screen.feature" />
-      <change beforePath="$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb" afterPath="$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb" />
-    </list>
+    <list default="true" id="ad07066e-effd-4898-9eef-73e1464b79c3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -170,16 +166,15 @@
       <workItem from="1531481097256" duration="864000" />
       <workItem from="1531484506187" duration="522000" />
       <workItem from="1531487710703" duration="257000" />
-      <workItem from="1531564445418" duration="939000" />
+      <workItem from="1531564445418" duration="1458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12083000" />
+    <option name="totallyTimeSpent" value="12602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1081" height="1044" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
