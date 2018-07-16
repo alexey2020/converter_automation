@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad07066e-effd-4898-9eef-73e1464b79c3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/features/area_screen.feature" afterPath="$PROJECT_DIR$/features/area_screen.feature" />
       <change beforePath="$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb" afterPath="$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb" />
     </list>
@@ -15,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="area_screen.feature" pinned="false" current-in-tab="true">
+      <file leaf-file-name="area_screen.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/area_screen.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+            <state relative-caret-position="540">
+              <caret line="36" column="23" lean-forward="false" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -45,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="area_screen_steps.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="area_screen_steps.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="813">
-              <caret line="55" column="3" lean-forward="true" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+            <state relative-caret-position="783">
+              <caret line="58" column="113" lean-forward="false" selection-start-line="58" selection-start-column="113" selection-end-line="58" selection-end-column="113" />
               <folding />
             </state>
           </provider>
@@ -107,8 +106,8 @@
         <option value="$PROJECT_DIR$/features/support/env.rb" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb" />
         <option value="$PROJECT_DIR$/features/area_screen.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb" />
       </list>
     </option>
   </component>
@@ -209,12 +208,12 @@
       <workItem from="1531487710703" duration="257000" />
       <workItem from="1531564445418" duration="1458000" />
       <workItem from="1531732190724" duration="1560000" />
-      <workItem from="1531733998292" duration="196000" />
+      <workItem from="1531733998292" duration="492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14358000" />
+    <option name="totallyTimeSpent" value="14654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="23" width="1422" height="981" extended-state="0" />
@@ -645,18 +644,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb">
+    <entry file="file://$PROJECT_DIR$/features/area_screen.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="813">
-          <caret line="55" column="3" lean-forward="true" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+        <state relative-caret-position="540">
+          <caret line="36" column="23" lean-forward="false" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/area_screen.feature">
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        <state relative-caret-position="783">
+          <caret line="58" column="113" lean-forward="false" selection-start-line="58" selection-start-column="113" selection-end-line="58" selection-end-column="113" />
           <folding />
         </state>
       </provider>
