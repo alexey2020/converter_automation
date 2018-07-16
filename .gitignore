@@ -36,5 +36,9 @@
 ehthumbs.db
 Thumbs.db
 
-# I will try here to ignore IDEA files
-.idea
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
