@@ -1,4 +1,3 @@
-# Комментарии начинаются с решетки
 @area
 Feature: User is able to convert area units
 
