@@ -38,6 +38,7 @@ Thumbs.db
 
 # IntelliJ IDEA
 .idea/
+.idea/*
 *.iml
 *.iws
 *.ipr
