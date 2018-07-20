@@ -12,8 +12,9 @@ Feature: User is able to convert Volume units
     When I swipe in the menu
     And I select "<target>" from menu
     Then I land on "<result>" screen
+
     Examples:
-    |target|result|
-    |Power |Power |
-    |Volume|Volume|
+    |target  |result  |
+    |Power   |Power   |
+    |Volume  |Volume  |
     |Currency|Currency|
